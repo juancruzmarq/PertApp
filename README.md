@@ -4,10 +4,6 @@ Aplicacion de escritorio hecha con Python y Tkinter para resolver algoritmo de P
 
 # Librerias
 
-tkinter
-criticalpath 
-math
-scipy
-networkx
-matplotlib
+Instalar librerias 
+pip install tkinter criticalpath  math scipy networkx matplotlib
 
